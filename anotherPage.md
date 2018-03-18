@@ -2,4 +2,4 @@
 
 nothing to see here, move ahead
 
-this is a link to [another page](anotherPage.md).
+this is a link back to the [first page](README.md).
